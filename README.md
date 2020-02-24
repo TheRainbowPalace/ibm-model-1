@@ -8,9 +8,9 @@ For detailed information see the book "Statistical Machine Translation" by Phili
 
 # Usage
 To run the program you are gonna need python version > 3.6 installed on 
-your computer. Then download or clone the project and run
-`> cd ibm-model-1`
-`> ./main.py test-source.txt test-target.txt`
+your computer. Then download or clone the project and run  
+`> cd ibm-model-1`  
+`> ./main.py test-source.txt test-target.txt`  
 Also you can use your own source and target files of your own. Please note
 that this implementation shall give an understanding of the IBM 1 algorithm with
 EM.  
