@@ -2,7 +2,9 @@
 
 This is an implementation of the IBM Model 1 EM algorithm.
 Given a bitext (of a source and target language aligned on a sentence level), 
-it calculates the probability between 
+it calculates the probability for a word based alignment.  
+For further information see: https://en.wikipedia.org/wiki/Bitext_word_alignment  
+For detailed information see the book "Statistical Machine Translation" by Philipp Koehn.
 
 # Usage
 To run the program you are gonna need python version > 3.6 installed on 
